@@ -41,14 +41,14 @@ Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a s
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=yaz-fey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
+    height="170"
   />
-  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=tokyonight&hide_border=true&hide=php"
-    height="180"
+    height="170"
   />
 </p>
+
 
 
 ---
