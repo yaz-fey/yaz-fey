@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/eXg9FzM.png" width="100%" alt="Feyyaz Okul – Full Stack Developer Neon Banner"/>
-</p>
 
 <h1 align="center">Hi there, I'm <span style="color:#00eaff">Feyyaz 👋</span></h1>
 
@@ -46,14 +43,6 @@ Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a s
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaz-fey&show_icons=true&theme=react&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaz-fey&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
