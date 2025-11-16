@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#00eaff">Feyyaz 👋</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;15%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Software+Architect+%7C+Clean+Code+Mindset;Building+scalable+systems+that+matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;15%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Software+Architect+%7C+Clean+Code+Mindset;Building+scalable+systems+that+matter" />
 </p>
 
 ---
