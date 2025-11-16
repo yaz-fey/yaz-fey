@@ -39,8 +39,15 @@ Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaz-fey&show_icons=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=react&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yaz-fey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
