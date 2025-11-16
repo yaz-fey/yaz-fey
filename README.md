@@ -23,9 +23,7 @@ Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a s
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,redux" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=android,cs,dotnet,php,laravel,java" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,android,reactnative,cs,dotnet,java" />
 </p>
 
 ### 🗄️ Databases & DevOps
