@@ -45,10 +45,11 @@ Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a s
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=tokyonight&hide_border=true&hide=php"
     height="180"
   />
 </p>
+
 
 ---
 
