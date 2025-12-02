@@ -70,7 +70,10 @@ Social event and activity platform serving thousands of users.
 ### 🛰️ **JEMUS**
 Emergency management system for Gendarmerie.
 
-### 🪪 **ID Verification**
+### 
+<p align="center">
+  <img alt="ID Verification" src="https://img.shields.io/badge/ID%20Verification-Mobile%20Operator-brightgreen?style=for-the-badge&logo=simplybuilt" />
+</p> **ID Verification**
 Mobile operator-backed identity validation system.
 
 ---
