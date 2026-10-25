@@ -1,108 +1,78 @@
-<!-- Banner -->
+# GitHub'a kopyalanacak metin
 
-<h1 align="center">Hi there, I'm <span style="color:#00eaff">Feyyaz 👋</span></h1>
+Profil: https://github.com/yaz-fey
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;15%2B+Years+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Software+Architect+%7C+Clean+Code+Mindset;Building+scalable+systems+that+matter" />
-</p>
+## 1) Bio
 
----
+GitHub profilinde ismin altındaki kısa kutu. En fazla 160 karakter. Aşağıdaki satırı olduğu gibi yapıştır.
 
-## 🧑‍💻 About Me
-I am a **Senior Full Stack Developer** with **15+ years of experience** building scalable, secure and high-performance applications across:
+```
+Senior Frontend & Mobile Developer. React, Next.js, Android. 16+ years.
+```
 
-- Public sector  
-- Enterprise companies  
-- Startups  
+## 2) Profile README
 
-Specialized in **React**, **Next.js**, **TypeScript**, and **Node.js**, with a strong background in system architecture, backend engineering, and performance optimization.
+GitHub'da `yaz-fey/yaz-fey` deposunu aç. `README.md` dosyasının içindeki her şeyi sil. Aşağıdaki çizgiden sonrasını yapıştır.
 
 ---
 
-## ⚡ Tech Stack
+# Feyyaz OKUL
 
-### 🚀 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,android,reactnative,cs,dotnet,java" />
-</p>
+Senior Frontend & Mobile Developer
 
-### 🗄️ Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,mssql,ubuntu,nginx,git" />
-</p>
+React, Next.js, TypeScript, and Android. I take on system and backend work when the product needs it. 16+ years across public sector, private companies, and startups.
 
-### 🧪 Tools & Other Skills
-**Directus CMS, WebRTC, NFC, QR systems, PM2, Nginx/Apache optimization**
+Ankara, Türkiye
 
----
+## Experience
 
-## 📊 GitHub Stats
+**Nucleus Genetics** — Senior Frontend Developer  
+December 2025 – Present
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yaz-fey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaz-fey&layout=compact&theme=tokyonight&hide_border=true&hide=php"
-    height="170"
-  />
-</p>
+- Built the Massive Analyser frontend from scratch for current needs. It was reintroduced with the new interface, and the launch was completed.
+- Improved the existing backend and system.
+- Set the interface consistency in Figma at the start.
 
+**Kredinnet.net** — Senior Frontend Developer  
+April 2024 – September 2025
 
+- Built mobile-friendly web interfaces with React, Next.js, and TypeScript. About 4,000 users during development.
+- Integrated Directus CMS and a live auction infrastructure.
 
----
+**Kurumsalkiraci.com** — Senior Full Stack Developer  
+February 2023 – April 2024
 
-## 🚀 Highlighted Projects
+- Full stack on the platform: Next.js on the frontend, .NET on the backend. About 3,000 users during development. Location-based analysis and competitor comparison.
+- Continued development on the live Actividi social platform. About 15,000 users while I was on it.
+- Built the Vidipass ticketing platform full stack, covering web and backend.
 
-### 🔐 **Siper**
-Encrypted messaging platform used in production for private sector clients.
+**Netelsan** — Senior Software Developer  
+February 2021 – February 2023
 
-### 📍 **Kurumsalkiraci.com**
-Advanced real-estate analytics platform for corporate tenants.
+- Started in native Android. On IP Intercom, delivered uninterrupted connectivity across 2,000 devices, with an average of 4–5 users actively using each device, and completed final delivery.
+- As R&D project lead, built the Intrusion Alarm frontend and backend separately with React Native and Node.js, across 6,000 devices, with an average of 2–3 users actively using each device, and also worked on the system side.
+- Consulted for the sister company İnşaat Sepetim: direction, software structure, and React frontend on the web interface.
 
-### 🎫 **Vidipass**
-Ticketing system for event access and verification.
+**Turkish Gendarmerie General Command** — Lead Developer, Mobile Security  
+June 2014 – January 2021
 
-### 🎉 **Actividi**
-Social event and activity platform serving thousands of users.
+- Lead developer on JEMUS and Identity Verification. Mobile-heavy work with Android and ASP.NET. About 200,000 active users.
 
-### 🛰️ **JEMUS**
-Emergency management system for Gendarmerie.
+## Other project
 
-### 👤 **ID Verification**
-Mobile operator-backed identity validation system.
+**Siper** — Freelance, Android Developer, 2019–2021  
+Android development on Siper İletişim, an encrypted internal communication platform.
 
----
+## Stack
 
-## 💼 Professional Experience (Short Highlights)
+- Frontend: React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind
+- Mobile: Android (Java), React Native, Xamarin
+- Backend: Node.js, ASP.NET, C#, PHP, Laravel
+- Data and infrastructure: PostgreSQL, MongoDB, MySQL, MSSQL, Git, Ubuntu, Nginx, Apache, PM2
+- Product: Figma, Directus CMS, WebRTC, NFC, QR, AI-assisted development
 
-- **Kredinnet.net** – Modern UI, real-time auction system, Directus CMS  
-- **Kurumsalkiraci.com** – Scalable backend + location-based analytics  
-- **Actividi & Vidipass** – Full project ownership & platform optimization  
-- **Netelsan** – Smart home & alarm systems (Android/Linux)  
-- **Gendarmerie** – Secure mobile systems (JEMUS, ID Verification)
+## Contact
 
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:feyyazokul10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/yaz-fey">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/feyyaz-okul/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
----
-
-<p align="center">
-  <b style="color:#00eaff">✨ Thanks for visiting my GitHub profile! ✨</b>
-</p>
+- feyyazokul10@gmail.com
+- linkedin.com/in/feyyaz-okul
+- github.com/yaz-fey
