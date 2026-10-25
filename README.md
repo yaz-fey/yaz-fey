@@ -1,24 +1,6 @@
-# GitHub'a kopyalanacak metin
-
-Profil: https://github.com/yaz-fey
-
-## 1) Bio
-
-GitHub profilinde ismin altındaki kısa kutu. En fazla 160 karakter. Aşağıdaki satırı olduğu gibi yapıştır.
-
-```
-Senior Frontend & Mobile Developer. React, Next.js, Android. 16+ years.
-```
-
-## 2) Profile README
-
-GitHub'da `yaz-fey/yaz-fey` deposunu aç. `README.md` dosyasının içindeki her şeyi sil. Aşağıdaki çizgiden sonrasını yapıştır.
-
----
-
 # Feyyaz OKUL
 
-Senior Frontend & Mobile Developer
+**Senior Frontend & Mobile Developer**
 
 React, Next.js, TypeScript, and Android. I take on system and backend work when the product needs it. 16+ years across public sector, private companies, and startups.
 
@@ -58,21 +40,43 @@ June 2014 – January 2021
 
 - Lead developer on JEMUS and Identity Verification. Mobile-heavy work with Android and ASP.NET. About 200,000 active users.
 
-## Other project
+## Projects
+
+**Actividi** — 2023  
+Development on the live social platform. About 15,000 users while I was on it.
+
+**Vidipass** — 2023  
+Full stack web and backend development on the ticketing platform.
 
 **Siper** — Freelance, Android Developer, 2019–2021  
 Android development on Siper İletişim, an encrypted internal communication platform.
 
 ## Stack
 
-- Frontend: React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind
-- Mobile: Android (Java), React Native, Xamarin
-- Backend: Node.js, ASP.NET, C#, PHP, Laravel
-- Data and infrastructure: PostgreSQL, MongoDB, MySQL, MSSQL, Git, Ubuntu, Nginx, Apache, PM2
-- Product: Figma, Directus CMS, WebRTC, NFC, QR, AI-assisted development
+### Languages and frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,android,reactnative,cs,dotnet,java" />
+</p>
+
+### Data and infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,ubuntu,nginx,git" />
+</p>
+
+Figma, Directus CMS, WebRTC, NFC, QR, Node.js, PHP, Laravel, PM2, AI-assisted development
 
 ## Contact
 
-- feyyazokul10@gmail.com
-- linkedin.com/in/feyyaz-okul
-- github.com/yaz-fey
+<p align="center">
+  <a href="mailto:feyyazokul10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yaz-fey">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/feyyaz-okul/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
